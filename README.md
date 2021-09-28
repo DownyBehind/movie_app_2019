@@ -9,3 +9,9 @@ React JS Fundamentals Course (2019 Update!)
 2. npx (create react app)
 3. git (software version managing)
 ```
+
+## what we learn this project
+
+```
+1. how React work
+```

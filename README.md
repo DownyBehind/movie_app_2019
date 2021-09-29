@@ -15,3 +15,9 @@ React JS Fundamentals Course (2019 Update!)
 ```
 1. how React work
 ```
+
+## JSX & PROPS
+
+```
+we can assign props to component and component can represent HTML output.
+```

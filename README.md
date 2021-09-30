@@ -20,4 +20,6 @@ React JS Fundamentals Course (2019 Update!)
 
 ```
 we can assign props to component and component can represent HTML output.
+
+if you use Map function, you should assign ID to each elements.
 ```

@@ -28,9 +28,9 @@ if you use Map function, you should assign ID to each elements.
 
 ```
 gh-pages host your website on github pages.
-my gh-pages address is
-https://downybehind.github.io/movie_app_2019/#/
 ```
+
+[my gh-pages address is] : https://downybehind.github.io/movie_app_2019/#/
 
 ## Navigation
 
